@@ -5,7 +5,7 @@ function Dashboardheader() {
       <div className='flex flex-nowrap'>
   <ul className='flex space-x-4 justify-center items-center'>
     <li>
-      <a className='text-red hover:text-gray-300' href="/karthik">Karthik</a>
+      <a className='text-red hover:text-gray-300' href="/">Karthik</a>
     </li>
     <li>
       <a className='text-red hover:text-gray-300' href="/projects">Projects</a>
