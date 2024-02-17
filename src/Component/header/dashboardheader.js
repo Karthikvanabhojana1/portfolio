@@ -4,7 +4,7 @@ import { FaBars } from 'react-icons/fa';
 function Dashboardheader() {
   const [showMenu, setShowMenu] = useState(false);
   const handleDownload = () => {
-    const url = "/ImageandVids/KarthikVanabhojana.pdf";
+    const url = "https://drive.google.com/file/d/1-shMEHQ2exjTC5Ld-yvsUI6_79N8KYYs/view?usp=drive_link";
     fetch(url)
       .then((response) => response.blob())
       .then((blob) => {
