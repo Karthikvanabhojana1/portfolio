@@ -14,11 +14,10 @@ const initialExperiences = [
     description: "Orchestrated a robust API layer using Java, MVC, Hibernate, and Spring Boot to seamlessly integrate vendor and host systems, enhancing data sharing and system compatibility, which resulted in a significant 15% reduction in production lead time, optimizing operational efficiency and accelerating project delivery. Implemented the practices of prioritized peer-review methodologies, following through on enhancing code quality and fostering team collaboration within the Agile software context.",
   },
   {
-    title: "Custom Software Engineering Associate",
+    title: "Application Development Associate",
     company: "Accenture Bengaluru, India",
-    duration: "Aug. 2022 - Jan. 2023",
-    description: "Orchestrated a robust API layer using Java, MVC, Hibernate, and Spring Boot to seamlessly integrate vendor and host systems, enhancing data sharing and system compatibility, which resulted in a significant 15% reduction in production lead time, optimizing operational efficiency and accelerating project delivery. Implemented the practices of prioritized peer-review methodologies, following through on enhancing code quality and fostering team collaboration within the Agile software context.",
-  },
+    duration: "Jan. 2021 - Jul. 2022",
+    description: "Engineered a marketplace data catalog using Java, GraphQL, REST, and SQL for seamless data transmission across applications via APIs Utilized Git and GitHub for version control and collaboration, ensuring seamless integration of these libraries into the project workflow Exhibited strong problem-solving skills, adeptly analyzing complex issues, and implementing innovative solutions to foster acollaborative and productive work environment"},
 ];
 
 function WorkExperience() {
