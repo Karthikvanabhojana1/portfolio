@@ -4,7 +4,7 @@ const callouts = [
     name: 'JWT Authentication in Spring Boot',
     description: 'Mastering JWT Authentication in Spring Boot: A Step-by-Step Guide',
     imageSrc:'https://res.cloudinary.com/djpqqdkqg/image/upload/v1708110577/Welcome_to_FigJam_rula1d.jpg',
-    imageAlt: 'Image of the website which was designed for this project',
+    imageAlt: 'Image of the website which was designed for this project ',
     href: 'https://medium.com/@karthikvanabhojana/mastering-jwt-authentication-in-spring-boot-a-step-by-step-guide-9082322f473c',
   }
 
