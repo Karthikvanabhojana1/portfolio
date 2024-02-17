@@ -12,7 +12,7 @@ const BackgroundVideo = () => {
         style={{ objectFit: 'cover', zIndex: -1 }}
       >
         {/* <source src="https://res.cloudinary.com/djpqqdkqg/video/upload/v1706916403/vidbackground_yi7ct8.mp4" type="video/mp4" /> */}
-                <source src="/ImageandVids/Smoke_Dark_08_Videvo.mp4" type="video/mp4" />
+                <source src="https://res.cloudinary.com/djpqqdkqg/video/upload/v1708135861/Smoke_Dark_08_Videvo_mswcvm.mov" type="video/mp4" />
 
         Your browser does not support the video tag.
       </video>
