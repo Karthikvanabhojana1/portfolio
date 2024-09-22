@@ -14,6 +14,13 @@ const callouts = [
     imageAlt: 'Image of the some Background of the project MHelp',
     href: 'https://github.com/Karthikvanabhojana1/MHELP.git',
   },
+  {
+    name: 'Admin Panel',
+    description: 'Dashboard UI using meterial UI and React',
+    imageSrc:'https://res.cloudinary.com/djpqqdkqg/image/upload/v1726983999/Screenshot_2024-09-22_at_12.44.33_AM_c4hkaw.png',
+    imageAlt:'Image of the website which was designed for this project',
+    href: 'https://github.com/Karthikvanabhojana1/dashboard',
+  },
 
 ]
 
